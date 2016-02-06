@@ -1,0 +1,2 @@
+#springframeworksample-awselasticbeanstalk
+Sample Spring Framework Application for AWS Elastic Beanstalk
